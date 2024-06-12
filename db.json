@@ -1,0 +1,117 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "avatar": "https://example.com/avatar1.jpg",
+        "planType": "Grueso",
+        "password": "s3cr3tP@ssw0rd"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "avatar": "https://example.com/avatar2.jpg",
+        "planType": "Medio",
+        "password": "p@ssw0rd123"
+      },
+      {
+        "id": 3,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "avatar": "https://example.com/avatar3.jpg",
+        "planType": "Delgado",
+        "password": "myP@ssw0rd"
+      },
+      {
+        "id": 4,
+        "name": "Bob Williams",
+        "email": "bob.williams@example.com",
+        "avatar": "https://example.com/avatar4.jpg",
+        "planType": "Grueso",
+        "password": "secureP@ss"
+      },
+      {
+        "id": 5,
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "avatar": "https://example.com/avatar5.jpg",
+        "planType": "Medio",
+        "password": "strongP@ss"
+      },
+      {
+        "id": 6,
+        "name": "Michael Davis",
+        "email": "michael.davis@example.com",
+        "avatar": "https://example.com/avatar6.jpg",
+        "planType": "Delgado",
+        "password": "p@ssw0rd1234"
+      },
+      {
+        "id": 7,
+        "name": "Sarah Wilson",
+        "email": "sarah.wilson@example.com",
+        "avatar": "https://example.com/avatar7.jpg",
+        "planType": "Grueso",
+        "password": "password123"
+      },
+      {
+        "id": 8,
+        "name": "David Lee",
+        "email": "david.lee@example.com",
+        "avatar": "https://example.com/avatar8.jpg",
+        "planType": "Medio",
+        "password": "d@v1dP@ss"
+      },
+      {
+        "id": 9,
+        "name": "Olivia Martinez",
+        "email": "olivia.martinez@example.com",
+        "avatar": "https://example.com/avatar9.jpg",
+        "planType": "Delgado",
+        "password": "12345678"
+      },
+      {
+        "id": 10,
+        "name": "James Taylor",
+        "email": "james.taylor@example.com",
+        "avatar": "https://example.com/avatar10.jpg",
+        "planType": "Grueso",
+        "password": "taylorP@ss"
+      },
+      {
+        "id": 11,
+        "name": "Emma Anderson",
+        "email": "emma.anderson@example.com",
+        "avatar": "https://example.com/avatar11.jpg",
+        "planType": "Medio",
+        "password": "emma1234"
+      },
+      {
+        "id": 12,
+        "name": "Daniel Rodriguez",
+        "email": "daniel.rodriguez@example.com",
+        "avatar": "https://example.com/avatar12.jpg",
+        "planType": "Delgado",
+        "password": "danielR123"
+      },
+      {
+        "id": 13,
+        "name": "Sophia Moore",
+        "email": "sophia.moore@example.com",
+        "avatar": "https://example.com/avatar13.jpg",
+        "planType": "Grueso",
+        "password": "mooreP@ss"
+      },
+      {
+        "id": 14,
+        "name": "Matthew Garcia",
+        "email": "matthew.garcia@example.com",
+        "avatar": "https://example.com/avatar14.jpg",
+        "planType": "Medio",
+        "password": "garcia123"
+      }
+    ]
+  }
+  
